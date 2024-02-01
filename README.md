@@ -1,2 +1,2 @@
 # cooldotty.github.io
-The OFFICIAL website of CoolDotty 😎
+The OFFICIAL website of CoolDotty 👩‍🎤

@@ -1,0 +1,15 @@
+tasks:
+  - name: frontend
+    init: |
+      yarn install
+    command: |
+      yarn start
+ports:
+  - name: Website
+    port: 3000
+    onOpen: open-preview
+    visibility: public
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint
+    - esbenp.prettier-vscode
