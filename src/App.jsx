@@ -23,10 +23,12 @@ function App() {
           &nbsp;
           <b>&gt;</b>
         </h1>
-        <p>This is a WIP 🙂</p>
+        <p>This is a WIP 🥹</p>
         <a href="https://twitter.com/cooldottty">Twitter</a>
         <br />
         <a href="https://github.com/CoolDotty">Github</a>
+        <br />
+        <a href="https://cooldotty.itch.io/">Itch</a>
       </main>
     </div>
   );
