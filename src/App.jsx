@@ -24,7 +24,7 @@ function App() {
           <b>&gt;</b>
         </h1>
         <p>This is a WIP 🥹</p>
-        <a href="https://twitter.com/cooldottty">Twitter</a>
+        <a href="https://twitter.com/cooldotty_">Twitter</a>
         <br />
         <a href="https://github.com/CoolDotty">Github</a>
         <br />
