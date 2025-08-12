@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.905fb902.css",
-    "main.js": "/static/js/main.a05ba350.js",
+    "main.css": "/static/css/main.cd7e9030.css",
+    "main.js": "/static/js/main.e637253f.js",
+    "static/media/KGSimplytheBest.ttf": "/static/media/KGSimplytheBest.727c08f62f2530fb17cb.ttf",
     "static/media/Mini Pizza.ttf": "/static/media/Mini Pizza.fe85787da50f5cb48f02.ttf",
-    "static/media/ms_sans_serif.woff": "/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
-    "static/media/ms_sans_serif_bold.woff": "/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
-    "static/media/ms_sans_serif.woff2": "/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
-    "static/media/ms_sans_serif_bold.woff2": "/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
     "index.html": "/index.html",
-    "main.905fb902.css.map": "/static/css/main.905fb902.css.map",
-    "main.a05ba350.js.map": "/static/js/main.a05ba350.js.map"
+    "main.cd7e9030.css.map": "/static/css/main.cd7e9030.css.map",
+    "main.e637253f.js.map": "/static/js/main.e637253f.js.map"
   },
   "entrypoints": [
-    "static/css/main.905fb902.css",
-    "static/js/main.a05ba350.js"
+    "static/css/main.cd7e9030.css",
+    "static/js/main.e637253f.js"
   ]
 }
