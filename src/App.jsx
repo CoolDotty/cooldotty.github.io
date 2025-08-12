@@ -1,8 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import Piece from './components/Piece';
-import Window from './components/Window';
+import { FaLinkedin, FaGithub, FaItchIo } from 'react-icons/fa';
 
 function App() {
   return (
@@ -23,12 +22,18 @@ function App() {
           &nbsp;
           <b>&gt;</b>
         </h1>
-        <p>This is a WIP 🥹</p>
-        <a href="https://twitter.com/cooldotty_">Twitter</a>
         <br />
-        <a href="https://github.com/CoolDotty">Github</a>
+        <p>The biggest dog around making websites and games! 😎🤙</p>
         <br />
-        <a href="https://cooldotty.itch.io/">Itch</a>
+        <a href="https://www.linkedin.com/in/cooldotty/">
+          <FaLinkedin />
+        </a>
+        <a href="https://github.com/CoolDotty">
+          <FaGithub />
+        </a>
+        <a href="https://cooldotty.itch.io/">
+          <FaItchIo />
+        </a>
       </main>
     </div>
   );

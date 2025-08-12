@@ -3,6 +3,11 @@
   src: url(./fonts/Mini\ Pizza.ttf);
 }
 
+@font-face {
+  font-family: 'Simply the Best';
+  src: url(./fonts/KGSimplytheBest.ttf);
+}
+
 body {
   background: linear-gradient(
     -45deg,
@@ -22,6 +27,8 @@ body {
   display: grid;
   place-items: center;
   min-height: 100vh;
+  max-width: min(45em, 100vw - 2em);
+  margin: 0.5em auto;
 }
 
 .App > main {
@@ -55,6 +62,11 @@ body {
   to {
     transform: translatey(-0.25em);
   }
+}
+
+main {
+  font-family: 'Simply the Best';
+  text-shadow: 2px 2px 4px #000000;
 }
 
 main h1 {
@@ -150,5 +162,7 @@ main::before {
 }
 
 a {
+  display: inline-block;
   color: inherit !important;
+  margin: 0.5em 0.5em;
 }
