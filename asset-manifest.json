@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd7e9030.css",
-    "main.js": "/static/js/main.e637253f.js",
+    "main.css": "/static/css/main.c838ebe5.css",
+    "main.js": "/static/js/main.3fd6287f.js",
     "static/media/KGSimplytheBest.ttf": "/static/media/KGSimplytheBest.727c08f62f2530fb17cb.ttf",
     "static/media/Mini Pizza.ttf": "/static/media/Mini Pizza.fe85787da50f5cb48f02.ttf",
     "index.html": "/index.html",
-    "main.cd7e9030.css.map": "/static/css/main.cd7e9030.css.map",
-    "main.e637253f.js.map": "/static/js/main.e637253f.js.map"
+    "main.c838ebe5.css.map": "/static/css/main.c838ebe5.css.map",
+    "main.3fd6287f.js.map": "/static/js/main.3fd6287f.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd7e9030.css",
-    "static/js/main.e637253f.js"
+    "static/css/main.c838ebe5.css",
+    "static/js/main.3fd6287f.js"
   ]
 }
